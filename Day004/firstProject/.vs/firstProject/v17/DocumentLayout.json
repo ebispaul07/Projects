@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\Hell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|solutionrelative:src\\Hell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\trex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|solutionrelative:src\\trex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\inc\\new.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B97A2E6-608E-4076-92E0-60905C965914}|firstProject.vcxproj|solutionrelative:inc\\new.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trex.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\trex.cpp",
+              "RelativeDocumentMoniker": "src\\trex.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\trex.cpp",
+              "RelativeToolTip": "src\\trex.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T06:18:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "new.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\inc\\new.h",
+              "RelativeDocumentMoniker": "inc\\new.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\inc\\new.h",
+              "RelativeToolTip": "inc\\new.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T06:17:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hell.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\Hell.cpp",
+              "RelativeDocumentMoniker": "src\\Hell.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day005\\firstProject\\src\\Hell.cpp",
+              "RelativeToolTip": "src\\Hell.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T16:25:05.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

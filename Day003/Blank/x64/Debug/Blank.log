@@ -1,0 +1,3 @@
+﻿  hello.cpp
+C:\Users\Administrator\Desktop\Console Project\Blank\src\hello.cpp(77,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Blank.vcxproj -> C:\Users\Administrator\Desktop\Console Project\Blank\bin\x64\Debug\Blank.exe

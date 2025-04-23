@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day006\\prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3E03A3-DDA5-4B4D-8D4B-4AC02B4C4377}|prog.vcxproj|C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day006\\prog\\src\\hai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A3E03A3-DDA5-4B4D-8D4B-4AC02B4C4377}|prog.vcxproj|solutionrelative:src\\hai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hai.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day006\\prog\\src\\hai.cpp",
+              "RelativeDocumentMoniker": "src\\hai.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Projects_UST\\Day006\\prog\\src\\hai.cpp",
+              "RelativeToolTip": "src\\hai.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T03:42:28.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
